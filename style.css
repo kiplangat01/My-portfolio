@@ -1,10 +1,29 @@
 
-
+*{
+    font-family: sans-serif;
+}
 
 .social{
     text-align: center;
     font-size: 50px;
     color: blueviolet;
     word-spacing: 50px;
+}
+.profile{
+    color: white;
+
+}
+ .intro{
+     font-size: 40px;
+ }
+ .bgi{
+    background-image: url("/amages/desa.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ }
+
+.rumee{
+    border-radius: 500px;
+    margin-left: 200px;
 }
 
