@@ -9,15 +9,18 @@
   word-spacing: 50px;
 }
 .profile {
-  color: white;
+  color: rgb(212, 120, 174);
 }
 .intro {
-  font-size: 40px;
+  font-size: 40px;padding-top: 200px;
 }
 .bgi {
   background-image: url("/amages/desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
+}
+.h3{
+    color: rgb(141, 219, 219);
 }
 
 .rumee {
