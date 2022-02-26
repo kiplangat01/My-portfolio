@@ -17,7 +17,7 @@
   padding-left: 250px;
 }
 .bgi {
-  background-image: url("/amages/Desa.jpg");
+  background-image: url("../amages/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -28,6 +28,7 @@
 .mine{
     float: left;
     height: 400px;
+    border-radius: 50px;
 }
 
 .rumee {
