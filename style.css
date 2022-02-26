@@ -12,19 +12,22 @@
   color: rgb(212, 120, 174);
 }
 .intro {
-  font-size: 40px;padding-top: 200px;
+  font-size: 40px;
+  padding-top: 100px;
+  padding-left: 250px;
 }
 .bgi {
-  background-image: url("/amages/desa.jpg");
+  background-image: url("/amages/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 .h3{
     color: rgb(148, 81, 5);
+    padding-top: 150px;
 }
 .mine{
     float: left;
-    height: 480px;
+    height: 400px;
 }
 
 .rumee {
@@ -36,11 +39,29 @@
     word-spacing: 20px;
     text-align: end;
     padding-right: 30px;
+    display: flex;
 }
-
+.buts{
+    position: relative;
+    left: 750px;
+}
 button{
-    border: 2px solid grey ;
+    padding: 15px;
+    color: white;
+    background-color: rgb(63, 63, 156);
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    margin-top: 20px;
 }
 .description{
-    color: black;
+    color: rgb(219, 47, 156);
+}
+.span{
+    font-size: 20px;
+}
+.my{
+    padding-top: -20px;
+    color: rgb(214, 46, 82);
+    justify-content: 5px;
 }
