@@ -15,7 +15,7 @@
   font-size: 40px;padding-top: 200px;
 }
 .bgi {
-  background-image: url("desa.jpg");
+  background-image: url("/amages/desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
