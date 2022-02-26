@@ -20,7 +20,11 @@
   background-repeat: no-repeat;
 }
 .h3{
-    color: rgb(141, 219, 219);
+    color: rgb(148, 81, 5);
+}
+.mine{
+    float: left;
+    height: 480px;
 }
 
 .rumee {
@@ -35,5 +39,8 @@
 }
 
 button{
-    border: 2px solid grey;
+    border: 2px solid grey ;
+}
+.description{
+    color: black;
 }
