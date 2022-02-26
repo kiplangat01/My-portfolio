@@ -75,3 +75,10 @@ button{
     color: rgb(214, 46, 82);
     justify-content: 5px;
 }
+.about{
+    background-image: url("./amages/lap.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 40px;
+    color: rgb(214, 22, 173);
+}
