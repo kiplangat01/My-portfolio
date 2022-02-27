@@ -20,6 +20,7 @@
   background-image: url("../images/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
+  
 }
 .h3{
     color: rgb(148, 81, 5);
@@ -41,22 +42,22 @@
     text-align: end;
     padding-right: 30px;
     display: flex;
+    padding-left: 200px;
 }
-.buts{
+.buts a{
     position: relative;
-    left: 750px;
+    left: 400px;
+    top: 10px;
+    color: rgb(221, 224, 19);
+    text-decoration: none;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 5px;
 }
-button{
-    padding: 15px;
-    color: white;
-    background-color: rgb(63, 63, 156);
-    border: none;
-    border-radius: 7px;
-    font-weight: bold;
-    margin-top: 20px;
-}
+
 .description{
     color: rgb(219, 47, 156);
+    font-size: 30px;
 }
 .span{
     font-size: 20px;
@@ -65,4 +66,28 @@ button{
     padding-top: -20px;
     color: rgb(214, 46, 82);
     justify-content: 5px;
+}
+.about{
+   background-color: lightblue;
+    font-size: 30px;
+    color: rgb(248, 237, 240);
+    padding-top: 0px;
+}
+.move{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.gitlinks{
+    text-align: center;
+}
+.intro1{
+    background-color: white;
+    color: rgb(49, 32, 32);
+}
+.hobbies{
+    background-image: url("../images/travel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:  lightblue;
+    height: 500px;
 }
