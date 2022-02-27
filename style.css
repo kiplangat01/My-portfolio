@@ -3,9 +3,11 @@
 }
 
 .social {
-  text-align: center;
+  text-align: right;
   font-size: 50px;
   color: blueviolet;
+  padding-top: 100px;
+  padding-bottom: -50px;
   word-spacing: 50px;
 }
 .profile {
@@ -17,13 +19,13 @@
   padding-left: 250px;
 }
 .bgi {
-  background-image: url("../amages/Desa.jpg");
+  background-image: url("./images/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   
 }
 .h3{
-    color: rgb(148, 81, 5);
+    color: white;
     padding-top: 150px;
 }
 .mine{
@@ -45,14 +47,14 @@
 }
 .buts a{
     position: relative;
-    left: 400px;
+    left: 450px;
     top: 10px;
-    color: white;
+    color: rgb(233, 229, 8);
     text-decoration: none;
-    font-size: 35px;
+    font-size: 30px;
     border-radius: 10px;
     padding: 5px;
-    background-color: rgb(0, 0, 0);
+   
 
 }
 
@@ -65,8 +67,8 @@
 }
 .my{
     padding-top: -20px;
-    color: rgb(214, 46, 82);
-    justify-content: 5px;
+    color: rgb(233, 229, 8);;
+    font-size: 50px;
 }
 .about{
    background-color: lightblue;
@@ -91,4 +93,15 @@
     background-size: 100%;
     color:  lightblue;
     height: 500px;
+}
+button{
+  background-color: rgb(8, 96, 168);
+  border: 0ch;
+  padding: 10px 15px 20px;
+  color: white;
+  border-radius: 10px;
+}
+.copyright{
+  position: relative;
+  bottom: 50px;
 }
