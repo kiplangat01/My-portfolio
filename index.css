@@ -3,9 +3,11 @@
 }
 
 .social {
-  text-align: center;
+  text-align: right;
   font-size: 50px;
   color: blueviolet;
+  padding-top: 100px;
+  padding-bottom: -50px;
   word-spacing: 50px;
 }
 .profile {
@@ -17,13 +19,13 @@
   padding-left: 250px;
 }
 .bgi {
-  background-image: url("../images/Desa.jpg");
+  background-image: url("images/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   
 }
 .h3{
-    color: rgb(148, 81, 5);
+    color: white;
     padding-top: 150px;
 }
 .mine{
@@ -85,7 +87,7 @@
     color: rgb(49, 32, 32);
 }
 .hobbies{
-    background-image: url("../images/travel.jpg");
+    background-image: url("images/travel.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     color:  lightblue;
