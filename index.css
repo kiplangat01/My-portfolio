@@ -19,7 +19,7 @@
   padding-left: 250px;
 }
 .bgi {
-  background-image: url("./images/Desa.jpg");
+  background-image: url("images/Desa.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   
@@ -87,7 +87,7 @@
     color: rgb(49, 32, 32);
 }
 .hobbies{
-    background-image: url("./images/travel.jpg");
+    background-image: url("images/travel.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     color:  lightblue;
