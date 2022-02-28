@@ -84,7 +84,7 @@
 }
 .intro1{
     background-color: white;
-    color: rgb(49, 32, 32);
+    color: rgb(48, 31, 31);
 }
 .hobbies{
     background-image: url("images/travel.jpg");
@@ -92,4 +92,9 @@
     background-size: 100%;
     color:  lightblue;
     height: 500px;
+}
+button{
+  background-color: rgb(7, 56, 37);
+  border: 0px;
+  padding: 10px;
 }
