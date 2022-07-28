@@ -2,13 +2,13 @@
 
 ##### Kiplangat Meshack
 
-### This is a project that explains everything about me as a software developer and my entire career journey(Delani studio).
+### This is a project that explains everything about me as a software developer and my entire career journey(My Portfolio).
 
 ## Table of Content
 
 - [Description](#description)
 - [Installation Requirement](#Installation)
-- [Technology Used](#technology-used)
+- [Technology Used](#technologies-used)
 - [Reference](#reference)
 - [Licence](#licence)
 - [Authors Info](#author-Info)
